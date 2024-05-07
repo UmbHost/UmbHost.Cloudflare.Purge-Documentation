@@ -1,6 +1,7 @@
 # Table of contents
 
 * [☁️ UmbHost.Cloudflare.Purge Documentation](README.md)
+* [Installation](installation.md)
 * [Configuration](configuration/README.md)
   * [How to Create Cloudflare API Token](configuration/how-to-create-cloudflare-api-token.md)
 * [Screenshots](screenshots.md)
